@@ -3,9 +3,6 @@
  */
 package com.hitesh.learn.generics.old;
 
-import generics.algos.util.Helper;
-import generics.algos.util.Proc;
-
 /**
  * @author hitjoshi
  * @date Jan 20, 2016

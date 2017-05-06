@@ -6,8 +6,6 @@ package com.hitesh.learn.generics.old;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.hitesh.learn.ds.old.Program;
-
 public class Program
 {
 	List<Program> aList = new ArrayList<Program>();

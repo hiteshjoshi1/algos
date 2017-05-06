@@ -1,12 +1,9 @@
 package com.hitesh.learn.problemsolving.old;
 
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
 
-import com.hitesh.learn.ds.old.HashMap;
 
 public class Solution {
 

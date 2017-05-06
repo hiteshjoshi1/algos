@@ -3,10 +3,6 @@
  */
 package com.hitesh.learn.generics.old;
 
-import generics.algos.util.Helper;
-
-import java.util.Comparator;
-
 /**
  * @author hitjoshi
  * @date Jan 10, 2016

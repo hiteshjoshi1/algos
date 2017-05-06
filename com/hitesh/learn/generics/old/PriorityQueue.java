@@ -3,11 +3,6 @@
  */
 package com.hitesh.learn.generics.old;
 
-import com.hitesh.learn.ds.old.PriorityQueue;
-
-import generics.algos.util.Helper;
-import generics.algos.util.Proc;
-
 /**
  * @author hitjoshi
  * @date Jan 21, 2016
